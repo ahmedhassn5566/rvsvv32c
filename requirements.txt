@@ -1,0 +1,6 @@
+requests
+bs4
+names
+fake_useragent
+requests_toolbelt
+render
