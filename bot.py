@@ -140,7 +140,7 @@ class Insta():
 			'bigtakip.net': {},
 			'anatakip.com': {},
 			'takip88.com': {},
-			'begenivar.com': {},
+			
 			'takipcimx.net': {},
 			'bayitakipci.com': {
 				'login': 'memberlogin'
