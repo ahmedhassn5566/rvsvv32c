@@ -161,7 +161,7 @@ class Insta():
 	def Get_User(self):
 		while not self.id:
 			try:
-				self.user = "ahmedhassn450"
+				self.user = "__tamim_sk8__"
 				he = {
 					'user-agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36',
 					'x-ig-app-id': '936619743392459',
